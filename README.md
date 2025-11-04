@@ -1,4 +1,4 @@
-# WarungTetangga - Prototype Frontend
+# WarungTetangga - Prototype
 
 Ini adalah versi sederhana prototype front-end untuk website *WarungTetangga* — pasar digital untuk UMKM lokal.
 
